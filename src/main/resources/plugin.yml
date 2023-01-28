@@ -1,0 +1,5 @@
+name: Radiation
+version: '${project.version}'
+main: dev.echo.oxi.OxiPlugin
+api-version: 1.17
+description: A plugin that adds radiation into your world. With armor and a variety of features

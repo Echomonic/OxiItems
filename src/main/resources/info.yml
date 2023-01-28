@@ -1,0 +1,32 @@
+items:
+  pumpkin_helmet:
+    material: 'paper'
+    name: 'pumpkin helmet'
+    lore:
+      - "stuff"
+      -
+    resources:
+      model-data: 14
+      glint: true
+      color:
+        hex:
+        red: 255
+        green: 255
+        blue: 255
+
+  ruby_block:
+    material: 'paper'
+    name: 'ruby block'
+    lore:
+      - 'stff'
+      -
+    resources:
+      model-data: 15
+
+blocks:
+  ruby_block:
+    material: 'NOTE_BLOCK'
+    drops:
+      - 'ruby_block, 1|3'
+    note_block:
+      note:
