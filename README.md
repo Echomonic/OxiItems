@@ -27,7 +27,3 @@ We welcome contributions from the community! If you would like to contribute, pl
 ## Support
 
 If you need help with the plugin or have found a bug, please open an issue on the GitHub repository.
-
-## License
-
-This plugin is released under the GNU General Public License v3.0 with the addition that the code cannot be published under payment without the permission of the owner. See the `LICENSE` file for more information.
