@@ -1,8 +1,8 @@
 # OxiItems - A Minecraft Plugin
 
-[![GitHub Release](https://img.shields.io/github/release/<your_username>/OxiItems.svg)](https://github.com/<your_username>/OxiItems/releases)
-[![GitHub Issues](https://img.shields.io/github/issues/<your_username>/OxiItems.svg)](https://github.com/<your_username>/OxiItems/issues)
-[![GitHub License](https://img.shields.io/github/license/<your_username>/OxiItems.svg)](https://github.com/<your_username>/OxiItems/blob/master/LICENSE)
+[![GitHub Release](https://img.shields.io/github/release/Echomonic/OxiItems.svg)](https://github.com/<your_username>/OxiItems/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Echomonic/OxiItems.svg)](https://github.com/<your_username>/OxiItems/issues)
+[![GitHub License](https://img.shields.io/github/license/Echomonic/OxiItems.svg)](https://github.com/<your_username>/OxiItems/blob/master/LICENSE)
 
 OxiItems is a Minecraft plugin that adds custom items, blocks, and entities to the game. It is still in development and is being constantly updated to add new features and improve existing ones.
 
